@@ -75,3 +75,7 @@ SELECT c.Modelo AS CarroModelo, FLocacao.Cidade AS CidadeLocacao, FLocacao.Estad
 FROM Locacao l
 INNER JOIN Carro c ON l.CarroId = c.CarroId
 INNER JOIN Franquia FLocacao ON l.FranquiaLocacaoId = FLocacao.FranquiaId;
+
+-- Quilometragem atual de cada um dos carros.
+SELECT CarroId, Modelo, QuilometragemAtual
+FROM Carro;
