@@ -147,4 +147,5 @@ erDiagram
 
 ## :woman_technologist: Desenvolvedora
 
-[<img src="https://user-images.githubusercontent.com/108686840/271874870-1003d6c2-7574-4104-a392-ab6b2713cff2.png" width=115><br><sub>Christiane Barbosa</sub>](https://www.linkedin.com/in/christiane-barbosa/) 
+| [<img src="https://user-images.githubusercontent.com/108686840/271874870-1003d6c2-7574-4104-a392-ab6b2713cff2.png" width=115><br><sub>Christiane Barbosa</sub>](https://www.linkedin.com/in/christiane-barbosa/) |
+| :----------------------------------------------------------------------------------------------------------------------------------: | 
